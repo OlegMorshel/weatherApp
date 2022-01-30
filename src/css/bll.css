@@ -1,0 +1,11 @@
+.bll{
+	background: hsla(175, 41%, 33%, 1);
+
+background: linear-gradient(45deg, hsla(175, 41%, 33%, 1) 0%, hsla(215, 32%, 45%, 1) 100%);
+
+background: -moz-linear-gradient(45deg, hsla(175, 41%, 33%, 1) 0%, hsla(215, 32%, 45%, 1) 100%);
+
+background: -webkit-linear-gradient(45deg, hsla(175, 41%, 33%, 1) 0%, hsla(215, 32%, 45%, 1) 100%);
+height: 100vh;
+padding-top: 100px;
+}
